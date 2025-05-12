@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Eco-lieu Les Papillons Casteljaloux",
+    "lieu": "France",
+    "distance": 10,
+    "starred": true,
+    "image": "./assets/images/ecolieu1.png"
+  },
+  {
+    "id": 2,
+    "name": "Éco-lieu Jeanot Tartas",
+    "lieu": "France",
+    "distance": 125,
+    "starred": false,
+    "image": "./assets/images/ecolieu2.png"
+  },
+  {
+    "id": 3,
+    "name": "Eco-lieu Les Dunes de mer",
+    "lieu": "France",
+    "distance": 34,
+    "starred": true,
+    "image": "./assets/images/ecolieu1.png"
+  },
+  {
+    "id": 4,
+    "name": "Éco-lieu Du Père Alphonse",
+    "lieu": "France",
+    "distance": 76,
+    "starred": false,
+    "image": "./assets/images/ecolieu2.png"
+  }
+]
