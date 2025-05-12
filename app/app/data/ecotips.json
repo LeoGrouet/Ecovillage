@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "titre": "Comment acheter un van moins cher en Allemagne ? ",
+    "lien": "http://fakeurl.com",
+    "image": "./assets/images/ecotips1.png",
+    "starred": false
+  },
+  {
+    "id": 2,
+    "titre": "Recette facile de la lessive au lierre",
+    "lien": "http://fakeurl.com",
+    "image": "./assets/images/ecotips2.png",
+    "starred": true
+  },
+  {
+    "id": 3,
+    "titre": "Manger de la terre pour être en bonne santé ?",
+    "lien": "http://fakeurl.com",
+    "image": "./assets/images/ecotips1.png",
+    "starred": true
+  },
+  {
+    "id": 4,
+    "titre": "Végétaliser son assiette",
+    "lien": "http://fakeurl.com",
+    "image": "./assets/images/ecotips2.png",
+    "starred": false
+  }
+]
